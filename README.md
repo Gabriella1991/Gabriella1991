@@ -1,7 +1,10 @@
 ### Hi there 👋
-![Github stats]( https://github-readme-stats.vercel.app/api?username=Gabriella1991&theme=highcontrast&show_icons=true&count_private=true )
+
 
 ![Top-Sprachen-Karte](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriella1991&layout=compact)
+
+![Github stats]( https://github-readme-stats.vercel.app/api?username=Gabriella1991&theme=highcontrast&show_icons=true&count_private=true )
+
 <!--
 **Gabriella1991/Gabriella1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
