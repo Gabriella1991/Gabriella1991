@@ -1,19 +1,11 @@
 ### Hi there 👋
-
- Mein Portfolio
  
  Willkommen zu meinem Portfolio
- 
- Mein Name ist Gabriella Nagy-Giessing, und ich bin ein Junior Full-Stack Web Developerin.
- 
- Meine Projekte:
- 
- Green Wheels
- Kühlschrank-Managment-App
- <h1 align="center">Hi 👋, I'm Gabriella Nagy-Giessing</h1>
+
+<h1 align="center">Hi 👋, I'm Gabriella Nagy-Giessing</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany.</h3>
 
- <img align="right"  alt="Coding" src="https://tenor.com/de/view/css-html-computers-coding-programming-gif-22307686" />
+ <img align="right"  alt="Coding" width="400" src="https://dribbble.com/shots/17724801-Generative-battery-charging-VFX" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriella1991&label=Profile%20views&color=0e75b6&style=flat" alt="gabriella1991" /> </p>
 
@@ -36,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriella1991&show_icons=true&locale=en" alt="gabriella1991" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriella1991&" alt="gabriella1991" /></p>
+
 
  
 ![Top-Sprachen-Karte](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriella1991&layout=compact)
