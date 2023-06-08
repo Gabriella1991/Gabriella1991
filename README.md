@@ -1,11 +1,29 @@
-### Hi there 👋
- 
- Willkommen zu meinem Portfolio
 
+<h1 align="center">Hallo 👋, ich bin Gabriella Nagy-Giessing</h1>
 <h1 align="center">Hi 👋, I'm Gabriella Nagy-Giessing</h1>
+
+<h3 align="center">Ein leidenschaftlicher Full Stack Entwicklerin aus Deutschland.</h3>
 <h3 align="center">A passionate Full Stack Developer from Germany.</h3>
 
- <img align="right"  alt="Coding" width="400" src="https://dribbble.com/shots/17724801-Generative-battery-charging-VFX" />
+
+ <h2>Meine Projekte / My projects /</h2>
+    <ul>
+      <li>
+        <h3>Green Wheels</h3>
+        <p>Reservierungs- und Buchungssystem für Eco Fahrzeuge / Reservation and booking system for Eco vehicles /</p>
+        <p><a href="https://github.com/IhrBenutzername/Projekt1">Link zum Projekt</a></p>
+      </li>
+      <li>
+        <h3>Kühlschrank-Managment-App</h3>
+        <p>Verwaltungssystem eines Kühlschranks / Management system of a refrigerator /</p>
+        <p><a href="https://github.com/IhrBenutzername/Projekt2">Link zum Projekt</a></p>
+      </li>
+    </ul>
+
+
+
+
+ <img align="right"  alt="Coding" width="400" src="https://media1.giphy.com/media/MGdfeiKtEiEPS/giphy.gif?cid=ecf05e47ivvh8o6ouf36rp1k1c0wxior1khwpl6k5c64zt0t&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriella1991&label=Profile%20views&color=0e75b6&style=flat" alt="gabriella1991" /> </p>
 
