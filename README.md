@@ -11,12 +11,19 @@
       <li>
         <h3>Green Wheels</h3>
         <p>Reservierungs- und Buchungssystem für Eco Fahrzeuge / Reservation and booking system for Eco vehicles /</p>
-        <p><a href="https://github.com/IhrBenutzername/Projekt1">Link zum Projekt</a></p>
+        <p><a href="https://github.com/Green-Wheels/GreenWheels-Backend-express.js">Link zum Projekt - Green Wheels Backend</a></p>
+        <p><a href="https://github.com/Green-Wheels/GreenWheels-Frontend-with-React">Link zum Projekt - Green Wheels Frontend</a></p>
       </li>
       <li>
         <h3>Kühlschrank-Managment-App</h3>
         <p>Verwaltungssystem eines Kühlschranks / Management system of a refrigerator /</p>
-        <p><a href="https://github.com/IhrBenutzername/Projekt2">Link zum Projekt</a></p>
+        <p><a href="https://github.com/Gabriella1991/Kuehlschrank-Managment-App">Link zum Projekt - Kühlschrank Managment App</a></p>
+      </li>
+      <h3>Andere kleine Projekte: / Other small projects: /</h3>
+      <li>
+        <h3>Browser Calculator</h3>
+        <p>Taschenrechner mit addieren, subtrahieren, multiplizieren, dividieren / Calculator with add, subtract, multiply, divide / </p>
+        <p><a href="https://github.com/Gabriella1991/Browser-Calculator-Nov-22">Link zum Projekt - Browser Calculator</a></p>
       </li>
     </ul>
 
