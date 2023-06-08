@@ -23,7 +23,7 @@
       <li>
         <h3>Browser Calculator</h3>
         <p>Taschenrechner mit addieren, subtrahieren, multiplizieren, dividieren / Calculator with add, subtract, multiply, divide / </p>
-        <p><a href="https://github.com/Gabriella1991/Browser-Calculator-Nov-22">Link zum Projekt - Browser Calculator</a></p>
+        <p><a href="https://jocular-beignet-2eca6d.netlify.app">Link zum Projekt - Browser Calculator</a></p>
       </li>
     </ul>
 
