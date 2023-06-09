@@ -11,8 +11,8 @@
       <li>
         <h3>Green Wheels</h3>
         <p>Reservierungs- und Buchungssystem für Eco Fahrzeuge / Reservation and booking system for Eco vehicles /</p>
-        <p><a href="https://github.com/Green-Wheels/GreenWheels-Backend-express.js">Link zum Projekt - Green Wheels Backend</a></p>
-        <p><a href="https://main--classy-unicorn-0eeb90.netlify.app/">Link zum Projekt - Green Wheels Frontend</a></p>
+        
+        <p><a href="https://greenwheels-with-react.onrender.com">Link zum Projekt - Green Wheels</a></p>
       </li>
       <li>
         <h3>Kühlschrank-Managment-App</h3>
