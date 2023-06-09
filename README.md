@@ -10,8 +10,7 @@
     <ul>
       <li>
         <h3>Green Wheels</h3>
-        <p>Reservierungs- und Buchungssystem für Eco Fahrzeuge / Reservation and booking system for Eco vehicles /</p>
-        
+        <p>Reservierungs- und Buchungssystem für Eco Fahrzeuge / Reservation and booking system for Eco vehicles / </p> 
         <p><a href="https://greenwheels-with-react.onrender.com">Link zum Projekt - Green Wheels</a></p>
       </li>
       <li>
