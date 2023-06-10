@@ -1,9 +1,9 @@
 
 <h1 align="center">Hallo 👋, ich bin Gabriella Nagy-Giessing</h1>
-<h1 align="center">Hi 👋, I'm Gabriella Nagy-Giessing</h1>
+<h3 align="center">/ Hi 👋, I'm Gabriella Nagy-Giessing /</h3>
 
 <h3 align="center">Eine leidenschaftliche Full-Stack Entwicklerin aus Deutschland.</h3>
-<h3 align="center">A passionate Full Stack Developer from Germany.</h3>
+<h5 align="center">/ A passionate Full Stack Developer from Germany. /</h5>
 
 
  <h2>Meine Projekte / My projects /</h2>
