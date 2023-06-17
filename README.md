@@ -27,7 +27,7 @@
       <li>
         <h3>Student Managment</h3>
         <p>App zum Hinzufügen, Entfernen, Lesen und Bearbeiten von Schülern und Klassen in einer Schule / create app to add, remove, read and edit Students and Classes in a School /</p>
-        <p><a https://nagy-giessing-student-managment.netlify.app/">Link zum Projekt - Browser Calculator</a></p>
+        <p><a  href="https://nagy-giessing-student-managment.netlify.app/">Link zum Projekt - Browser Calculator</a></p>
       </li>
     </ul>
 
