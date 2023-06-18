@@ -29,6 +29,11 @@
         <p>App zum Hinzufügen, Entfernen, Lesen und Bearbeiten von Schülern und Klassen in einer Schule / create app to add, remove, read and edit Students and Classes in a School /</p>
         <p><a  href="https://nagy-giessing-student-managment.netlify.app/">Link zum Projekt - Student Managment App</a></p>
       </li>
+      <li>
+        <h3>Amazing Drucksound Production</h3>
+        <p>Musik Künstler Webseite / Music artist website /</p>
+        <p><a  href="https://amazingdrucksoundmusikproduction.netlify.app/">Link zum Projekt - Student Managment App</a></p>
+      </li>
     </ul>
 
 
