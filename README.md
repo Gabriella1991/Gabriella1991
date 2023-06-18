@@ -32,7 +32,7 @@
       <li>
         <h3>Amazing Drucksound Production</h3>
         <p>Musik Künstler Webseite / Music artist website /</p>
-        <p><a  href="https://amazingdrucksoundmusikproduction.netlify.app/">Link zum Projekt - Student Managment App</a></p>
+        <p><a  href="https://amazingdrucksoundmusikproduction.netlify.app/">Link zum Projekt - A&D Production </a></p>
       </li>
     </ul>
 
